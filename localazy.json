@@ -1,0 +1,5 @@
+{
+    "download": {
+        "files": "src/locals/${lang}.json"
+    }
+}
