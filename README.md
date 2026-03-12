@@ -9,6 +9,10 @@ To use run from the root with
 ```
 python3 main.py
 ```
+Setup localazy CLI tools using
+```
+npm @localazy/cli
+```
 
 To download the translation information from the "Jiggly's Pot O' Gold" project run
 ```
